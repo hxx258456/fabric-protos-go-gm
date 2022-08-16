@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/golang/protobuf v1.5.2
-	github.com/hxx258456/ccgo v0.0.0-20220815135058-aea1800993ba
+	github.com/hxx258456/ccgo v0.0.1
 )
 
 require (
